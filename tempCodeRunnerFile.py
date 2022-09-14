@@ -1,0 +1,1 @@
+room's background, item's appearence, charecter's background
